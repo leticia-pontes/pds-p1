@@ -1,0 +1,65 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio folders
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored if packages are restored during build
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/bin/
+**/obj/
