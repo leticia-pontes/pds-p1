@@ -1,9 +1,4 @@
-﻿// Ciência da Computação - 4° BCC A
-// P1 (parte 1)
-// Emerson Caique Alexandre Felizardo - 1976712
-// Letícia Alves de Pontes - 1979942
-
-using System.Globalization;
+﻿using System.Globalization;
 
 namespace P1_p1
 {
